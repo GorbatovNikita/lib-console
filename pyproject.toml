@@ -1,0 +1,17 @@
+[project]
+name = "energy-register"
+version = "0.1.0"
+description = "cash register app for console"
+authors = [
+    {name = "GorbatovNikita",email = "ngorbatov01@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "sqlalchemy (>=2.0.52,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
