@@ -85,6 +85,9 @@ I apologize for this to whoever will be evaluating my program. :D
 
 Ngl I was having fun
 
+I also apoligize for having everything pushed through single commit
+
+I stole console part from one of my repos(you can find it in my profile) and redesigned it a lot
 </sub>
 
 
