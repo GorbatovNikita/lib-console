@@ -1,7 +1,7 @@
 [project]
-name = "energy-register"
+name = "Library-console"
 version = "0.1.0"
-description = "cash register app for console"
+description = "Library management app for console"
 authors = [
     {name = "GorbatovNikita",email = "ngorbatov01@gmail.com"}
 ]
