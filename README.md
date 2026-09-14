@@ -87,7 +87,7 @@ Ngl I was having fun
 
 Also sorry for having everything pushed through single commit, i know its bad
 
-I stole console part from one of my repos(you can find it in my profile) and redesigned it a lot
+I stole console part from one of my repos(you can find it in my profile, its called "energy-register") and redesigned it a lot
 </sub>
 
 
